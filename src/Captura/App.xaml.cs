@@ -11,6 +11,9 @@ using Captura.ViewModels;
 using Captura.Views;
 using CommandLine;
 
+// This is an edit by Bryan Scheetz
+
+
 namespace Captura
 {
     public partial class App
